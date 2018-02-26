@@ -4,21 +4,16 @@ class Portfolio extends Component {
   render() {
     return (
       <section id="portfolio">
-
       <div className="row">
-
          <div className="twelve columns collapsed">
-
             <h1>Check Out Some of My Works.</h1>
 
-            
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-
           	   <div className="columns portfolio-item">
                   <div className="item-wrap">
 
                      <a href="#modal-01" title="">
-                        <img alt="" src="images/portfolio/coffee.jpg"></img>
+                        <img alt="" src="images/portfolio/coffee.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Coffee</h5>
@@ -35,7 +30,7 @@ class Portfolio extends Component {
                   <div className="item-wrap">
 
                      <a href="#modal-02" title="">
-                        <img alt="" src="images/portfolio/console.jpg"></img>
+                        <img alt="" src="images/portfolio/console.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Console</h5>
@@ -52,7 +47,7 @@ class Portfolio extends Component {
                   <div className="item-wrap">
 
                      <a href="#modal-03" title="">
-                        <img alt="" src="images/portfolio/judah.jpg"></img>
+                        <img alt="" src="images/portfolio/judah.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Judah</h5>
@@ -69,7 +64,7 @@ class Portfolio extends Component {
                   <div className="item-wrap">
 
                      <a href="#modal-04" title="">
-                        <img alt="" src="images/portfolio/into-the-light.jpg"></img>
+                        <img alt="" src="images/portfolio/into-the-light.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Into The Light</h5>
@@ -86,7 +81,7 @@ class Portfolio extends Component {
                   <div className="item-wrap">
 
                      <a href="#modal-05" title="">
-                        <img alt="" src="images/portfolio/farmerboy.jpg"></img>
+                        <img alt="" src="images/portfolio/farmerboy.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Farmer Boy</h5>
@@ -103,7 +98,7 @@ class Portfolio extends Component {
                   <div className="item-wrap">
 
                      <a href="#modal-06" title="">
-                        <img alt="" src="images/portfolio/girl.jpg"></img>
+                        <img alt="" src="images/portfolio/girl.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Girl</h5>
@@ -120,7 +115,7 @@ class Portfolio extends Component {
                   <div className="item-wrap">
 
                      <a href="#modal-07" title="">
-                        <img alt="" src="images/portfolio/origami.jpg"></img>
+                        <img alt="" src="images/portfolio/origami.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Origami</h5>
@@ -137,7 +132,7 @@ class Portfolio extends Component {
                   <div className="item-wrap">
 
                      <a href="#modal-08" title="">
-                        <img alt="" src="images/portfolio/retrocam.jpg"></img>
+                        <img alt="" src="images/portfolio/retrocam.jpg" />
                         <div className="overlay">
                            <div className="portfolio-item-meta">
           					      <h5>Retrocam</h5>
@@ -153,8 +148,6 @@ class Portfolio extends Component {
             </div>
 
          </div>
-
-
 
       </div>
 
